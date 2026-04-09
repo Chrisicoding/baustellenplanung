@@ -10,8 +10,26 @@
           "text": "Aufgabe 1",
           "done": false,
           "issueNumber": null
+        },
+        {
+          "id": 1775739586381,
+          "text": "Aufgabe 2",
+          "done": false,
+          "issueNumber": null
+        },
+        {
+          "id": 1775739827062,
+          "text": "Decken tapezieren",
+          "done": false,
+          "issueNumber": 7
         }
       ]
+    },
+    {
+      "id": 1775739897280,
+      "name": "test2",
+      "note": "123",
+      "tasks": []
     }
   ],
   "workers": [],
