@@ -24,14 +24,19 @@
           "issueNumber": 7
         }
       ]
-    },
-    {
-      "id": 1775739897280,
-      "name": "test2",
-      "note": "123",
-      "tasks": []
     }
   ],
   "workers": [],
-  "archive": []
+  "archive": [
+    {
+      "id": 1775739937334,
+      "name": "test2",
+      "note": "123",
+      "tasks": [],
+      "timestamp": "09.04.2026, 15:05",
+      "total": 0,
+      "done": 0,
+      "ghUrl": null
+    }
+  ]
 }
