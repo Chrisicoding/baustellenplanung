@@ -4,7 +4,14 @@
       "id": 1775739526623,
       "name": "Teststraße 1",
       "note": "Firma Muster",
-      "tasks": []
+      "tasks": [
+        {
+          "id": 1775739536524,
+          "text": "Aufgabe 1",
+          "done": false,
+          "issueNumber": null
+        }
+      ]
     }
   ],
   "workers": [],
