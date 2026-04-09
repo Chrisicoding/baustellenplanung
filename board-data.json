@@ -10,6 +10,12 @@
           "text": "Aufgabe 1",
           "done": false,
           "issueNumber": null
+        },
+        {
+          "id": 1775739586381,
+          "text": "Aufgabe 2",
+          "done": false,
+          "issueNumber": null
         }
       ]
     }
