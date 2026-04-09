@@ -1,0 +1,29 @@
+{
+  "id": 1775739943465,
+  "name": "Teststraße 1",
+  "note": "Firma Muster",
+  "tasks": [
+    {
+      "id": 1775739536524,
+      "text": "Aufgabe 1",
+      "done": true,
+      "issueNumber": null
+    },
+    {
+      "id": 1775739586381,
+      "text": "Aufgabe 2",
+      "done": true,
+      "issueNumber": null
+    },
+    {
+      "id": 1775739827062,
+      "text": "Decken tapezieren",
+      "done": false,
+      "issueNumber": 7
+    }
+  ],
+  "timestamp": "09.04.2026, 15:05",
+  "total": 3,
+  "done": 2,
+  "ghUrl": null
+}
