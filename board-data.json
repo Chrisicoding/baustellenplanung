@@ -1,7 +1,9 @@
 {
-  "sites": [
+  "sites": [],
+  "workers": [],
+  "archive": [
     {
-      "id": 1775739526623,
+      "id": 1775740050684,
       "name": "Teststraße 1",
       "note": "Firma Muster",
       "tasks": [
@@ -23,11 +25,12 @@
           "done": false,
           "issueNumber": 7
         }
-      ]
-    }
-  ],
-  "workers": [],
-  "archive": [
+      ],
+      "timestamp": "09.04.2026, 15:07",
+      "total": 3,
+      "done": 0,
+      "ghUrl": null
+    },
     {
       "id": 1775739937334,
       "name": "test2",
